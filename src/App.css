@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.custom-select{
+  cursor: pointer;
+}
+#color{
+  background-color: tomato;
+}
+
